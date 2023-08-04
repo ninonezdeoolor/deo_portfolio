@@ -11,42 +11,42 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Aurora Bundle ✦ Orion + Eclipse + Hyper',
+    title: 'Facebook Clone',
     github: 'https://github.com',
     demo: 'https://dribbble.com/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Orion UI kit – data visualization and charts templates for Figma',
+    title: 'Intagram Clone',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Eclipse - Figma dashboard UI kit for data design web apps',
+    title: 'Twitter Clone',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Make Impactful Data Visualizations in Figma with Hyper Charts UI',
+    title: 'YouTube Clone',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Largest library of chart components',
+    title: 'TikTok Clone',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Charts templates & infortgraphics in Figma',
+    title: 'Spotify Clone',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
