@@ -18,7 +18,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: 'Intagram Clone',
+    title: 'Instagram Clone',
     github: 'https://github.com',
     demo: 'https://dribbble.com'
   },
