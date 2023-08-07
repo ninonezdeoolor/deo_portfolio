@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/deo_portfolio/static/css/main.d55a5b0e.css",
-    "main.js": "/deo_portfolio/static/js/main.6ac698af.js",
+    "main.css": "/deo_portfolio/static/css/main.aabd566f.css",
+    "main.js": "/deo_portfolio/static/js/main.7ff34d7e.js",
     "static/media/me-about.png": "/deo_portfolio/static/media/me-about.ff4481b7091ca2c1b4ee.png",
     "static/media/me.png": "/deo_portfolio/static/media/me.96c0498363a77ce4c722.png",
-    "static/media/portfolio5.png": "/deo_portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio6.png": "/deo_portfolio/static/media/portfolio6.a82ae9a163c1ac5e3a07.png",
     "static/media/deo.pdf": "/deo_portfolio/static/media/deo.10f426e01fed024c8a85.pdf",
-    "static/media/portfolio2.jpg": "/deo_portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/deo_portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio4.jpg": "/deo_portfolio/static/media/portfolio4.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio3.jpg": "/deo_portfolio/static/media/portfolio3.72d1107e313049cf15a7.jpg",
     "static/media/portfolio1.jpg": "/deo_portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/deo_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/deo_portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/portfolio2.jpg": "/deo_portfolio/static/media/portfolio2.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio5.jpg": "/deo_portfolio/static/media/portfolio5.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/avatar1.png": "/deo_portfolio/static/media/avatar1.2e18bfe27c6d2e2e9fdc.png",
     "static/media/avatar2.png": "/deo_portfolio/static/media/avatar2.39a53f7f092f07f5bceb.png",
     "static/media/bg.avif": "/deo_portfolio/static/media/bg.fa19c3fb4bcad1562cbd.avif",
     "index.html": "/deo_portfolio/index.html",
-    "main.d55a5b0e.css.map": "/deo_portfolio/static/css/main.d55a5b0e.css.map",
-    "main.6ac698af.js.map": "/deo_portfolio/static/js/main.6ac698af.js.map"
+    "main.aabd566f.css.map": "/deo_portfolio/static/css/main.aabd566f.css.map",
+    "main.7ff34d7e.js.map": "/deo_portfolio/static/js/main.7ff34d7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d55a5b0e.css",
-    "static/js/main.6ac698af.js"
+    "static/css/main.aabd566f.css",
+    "static/js/main.7ff34d7e.js"
   ]
 }
