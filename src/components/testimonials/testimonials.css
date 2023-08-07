@@ -21,15 +21,15 @@
 }
 
 .client__review {
-      color: var(--color-light);
+      color: var(--color-dark);
       font-weight: 300;
       display: block;
       width: 80%;
       margin: 0.8rem auto 0;
 }
 
-.swiper-pagination-bullet-clickable swiper-pagination-bullet {
-      background: var(--color-primary);
+.swiper-pagination-clickable .swiper-pagination-bullet {
+      background: var(--color-dark);
 }
 
 /* ************** MEDIA QUERIES (MEDIUM DEVICES) ************** */
