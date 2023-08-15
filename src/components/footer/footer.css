@@ -11,10 +11,12 @@ footer a {
 }
 
 .footer__logo {
-      font-size: 2rem;
-      font-weight: 500;
-      margin-bottom: 2rem;
-      display: inline-block;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 150px;
+      height: 100px;
+      margin: 0 auto;
 }
 
 .permalinks {

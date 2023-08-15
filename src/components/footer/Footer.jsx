@@ -1,5 +1,6 @@
 import React from 'react';
 import './footer.css';
+import LOGO from '../../assets/logo.png';
 import {FaFacebookSquare} from 'react-icons/fa';
 import {FaGithubSquare} from 'react-icons/fa';
 import {BsLinkedin} from 'react-icons/bs';
@@ -7,7 +8,9 @@ import {BsLinkedin} from 'react-icons/bs';
 const Footer = () => {
   return (
     <footer>
-      <a href='#' className='footer__logo'>DEO</a>
+      <div className="footer__logo">
+      <a href="#"><img src={LOGO} alt="LOGO" /></a>
+      </div>
 
       <ul className="permalinks">
         <li><a href='#'>Home</a></li>

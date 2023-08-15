@@ -33,7 +33,7 @@ const Contact = () => {
             <article className="contact__option">
               <FaViber className="contact__option-icon"/>
               <h4>Viber</h4>
-              <h5>+639669128627</h5>
+              <h5>+63966-912-8627</h5>
               <a href="viber://contact?number=%2B639669128627" target="_blank">Write Me &gt;</a>
             </article>
             <article className="contact__option">
@@ -45,7 +45,7 @@ const Contact = () => {
             <article className="contact__option">
               <BsWhatsapp className="contact__option-icon"/>
               <h4>WhatsApp</h4>
-              <h5>+639669128627</h5>
+              <h5>+63966-912-8627</h5>
               <a href="https://api.whatsapp.com/send?phone=639669128627" target="_blank">Write Me &gt;</a>
             </article>
           </div>
