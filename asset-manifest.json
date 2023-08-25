@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/deo_portfolio/static/css/main.bff02932.css",
-    "main.js": "/deo_portfolio/static/js/main.f087946d.js",
+    "main.js": "/deo_portfolio/static/js/main.2cbee729.js",
     "static/media/me.png": "/deo_portfolio/static/media/me.96c0498363a77ce4c722.png",
     "static/media/portfolio6.png": "/deo_portfolio/static/media/portfolio6.a82ae9a163c1ac5e3a07.png",
     "static/media/logo.png": "/deo_portfolio/static/media/logo.ce65cf20e476de4cdbc8.png",
     "static/media/about.png": "/deo_portfolio/static/media/about.b3cc3603d363a5e5d9f2.png",
-    "static/media/deo.pdf": "/deo_portfolio/static/media/deo.d6fc7fb6118c3bfa03a7.pdf",
+    "static/media/deo.pdf": "/deo_portfolio/static/media/deo.74a48d473f1d2c0f9ad7.pdf",
     "static/media/portfolio4.jpg": "/deo_portfolio/static/media/portfolio4.ae187bc4e43ae6dbc263.jpg",
     "static/media/portfolio3.jpg": "/deo_portfolio/static/media/portfolio3.72d1107e313049cf15a7.jpg",
     "static/media/portfolio1.jpg": "/deo_portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
@@ -17,10 +17,10 @@
     "static/media/bg.avif": "/deo_portfolio/static/media/bg.fa19c3fb4bcad1562cbd.avif",
     "index.html": "/deo_portfolio/index.html",
     "main.bff02932.css.map": "/deo_portfolio/static/css/main.bff02932.css.map",
-    "main.f087946d.js.map": "/deo_portfolio/static/js/main.f087946d.js.map"
+    "main.2cbee729.js.map": "/deo_portfolio/static/js/main.2cbee729.js.map"
   },
   "entrypoints": [
     "static/css/main.bff02932.css",
-    "static/js/main.f087946d.js"
+    "static/js/main.2cbee729.js"
   ]
 }
