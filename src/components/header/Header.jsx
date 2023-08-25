@@ -15,10 +15,10 @@ const Header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={ME} alt="me" />
+          <img src={ME} alt="me" title="ME" />
         </div>
 
-        <a href="#contact" className="scroll__down">Scroll Down</a>
+        <a href="#contact" className="scroll__down" title="Click to Scroll Down">Scroll Down</a>
       </div>
     </header>
   )

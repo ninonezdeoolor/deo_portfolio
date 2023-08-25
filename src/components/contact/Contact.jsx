@@ -31,19 +31,19 @@ const Contact = () => {
         <div className="container contact__container">
           <div className="contact__options">
             <article className="contact__option">
-              <FaViber className="contact__option-icon"/>
+              <FaViber className="contact__option-icon" title="Viber" />
               <h4>Viber</h4>
               <h5>+63966-912-8627</h5>
               <a href="viber://contact?number=%2B639669128627" target="_blank">Write Me &gt;</a>
             </article>
             <article className="contact__option">
-              <RiMessengerLine className="contact__option-icon"/>
+              <RiMessengerLine className="contact__option-icon" title="Messenger" />
               <h4>Messenger</h4>
               <h5>Niño Olor</h5>
               <a href="https://m.me/ninoolor" target="_blank">Write Me &gt;</a>
             </article>
             <article className="contact__option">
-              <BsWhatsapp className="contact__option-icon"/>
+              <BsWhatsapp className="contact__option-icon" title="WhatsApp" />
               <h4>WhatsApp</h4>
               <h5>+63966-912-8627</h5>
               <a href="https://api.whatsapp.com/send?phone=639669128627" target="_blank">Write Me &gt;</a>
